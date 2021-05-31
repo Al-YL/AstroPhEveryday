@@ -4,4 +4,4 @@ Nothing more, just read the new preprints of [astrophysics of galaxies](https://
 
 ## About King Kong Club
 
-A weekly seminar that focus on the preprints of [astrophysics of galaxies](https://arxiv.org/list/astro-ph.GA/recent) published in the last week.
+A weekly seminar that talking about the preprints of [astrophysics of galaxies](https://arxiv.org/list/astro-ph.GA/recent) published in the last week.
